@@ -1,5 +1,5 @@
 # 💫 About Me:
-I currently work at eInfochips<br>I am Android/Kotlin, Spring boot, microservice Master<br>I Study MCA
+I currently work at eInfochips<br>I am Android/Kotlin, Spring boot, microservice Master<br>I am looking to collabrate on Java, Kotlin and Android Projects<br>Ask Me anything about Java,Kotlin, Android, ML/AI and Data Science<br>How to reach me manjeetranawat@gmail.com<br>Know about my experieces [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/msg1987)<br>I Study MCA
 
 
 ## 🌐 Socials:
